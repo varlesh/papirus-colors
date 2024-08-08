@@ -1,0 +1,11 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#1d344f; } .ColorScheme-Highlight { color:#127bdc; } .ColorScheme-Background { color:#e4e4e4; }</style>
+ </defs>
+ <path d="m 13.2,13 c -0.7,1.57e-4 -1.4,2.000157 -2.748222,2 H 2.0000003 v 0.08694 L 2,26.913064 C 1.9999999,29 4.1,29 4.1,29 l 23.8,-1.57e-4 C 27.9,29 30,29 30,26.913064 V 13 Z" style="opacity:.2"/>
+ <path class="ColorScheme-Highlight" d="m2.0000003 17h28v-9.799842c0-2.1-2.1-2.2000791-2.1-2.2000791l-11.9-1.578e-4c-0.7 1.578e-4 -1.480904-1.9999308-2.760169-1.9999102l-9.139831 1.471e-4s-2.1 0-2.1 2.1z" style="fill:currentColor"/>
+ <path d="m2.0000003 17h28v-9.799842c0-2.1-2.1-2.2000791-2.1-2.2000791l-11.9-1.578e-4c-0.7 1.578e-4 -1.480904-1.9999308-2.760169-1.9999102l-9.139831 1.471e-4s-2.1 0-2.1 2.1z" style="opacity:.25"/>
+ <rect class="ColorScheme-Text" x="3" y="8" width="26" height="6.3" rx=".684" ry=".7" style="fill:currentColor"/>
+ <path class="ColorScheme-Highlight" d="m 13.2,12 c -0.7,1.57e-4 -1.4,2.000157 -2.748222,2 H 2.0000003 v 0.08694 L 2,25.913064 C 1.9999999,28 4.1,28 4.1,28 l 23.8,-1.57e-4 C 27.9,28 30,28 30,25.913064 V 12 Z" style="fill:currentColor"/>
+ <path d="m4.0996094 3s-2.0996094-3.906e-4 -2.0996094 2.0996094v1c0-2.1 2.0996094-2.0996094 2.0996094-2.0996094h9.1406246c1.279265-2.06e-5 2.059766 2.0001578 2.759766 2h11.900391s2.099609 0.0992188 2.099609 2.1992188v-1c0-2.1-2.099609-2.1992188-2.099609-2.1992188h-11.900391c-0.7 1.578e-4 -1.480501-2.0000206-2.759766-2h-9.1406246z" style="fill:#ffffff;opacity:.1"/>
+</svg>
